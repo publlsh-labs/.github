@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="./Screenshot%20From%202026-07-29%2016-18-16.png" alt="Publlsh Labs" width="180">
 
 # Publlsh Labs LLC
 
