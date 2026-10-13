@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="./Screenshot%20From%202026-07-29%2016-18-16.png" alt="Publlsh Labs" width="180">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Tinduck-Labs-Brand-Kit/logo/primary/tinduck-labs-logo-reversed.svg">
+    <img src="./Tinduck-Labs-Brand-Kit/logo/primary/tinduck-labs-logo-color.svg" alt="Tinduck Labs" width="360">
+  </picture>
 
-# Publlsh Labs LLC
+# Tinduck Labs LLC
 
-**We build tools that make work disappear.**
+**Software for teams that would rather be building.**
 
 Ideate → Build → Ship → Scale
 
-[Website](https://publlsh.app/) · [Solutions](http://localhost:3000/solutions) · [Careers](http://localhost:3000/careers) · [About](http://localhost:3000/about) · [Contact](http://localhost:3000/contact)
+[Website](https://tinducklabs.com/) · [Solutions](https://tinducklabs.com/solutions) · [Careers](https://tinducklabs.com/careers) · [About](https://tinducklabs.com/about) · [Contact](https://tinducklabs.com/contact)
 
 </div>
 
@@ -15,9 +18,9 @@ Ideate → Build → Ship → Scale
 
 ## Who we are
 
-Publlsh Labs is an AI company. We design and build productivity systems and applications that remove friction from how people and teams get things done.
+Tinduck Labs is a software company. We design and build products for social media, marketing and business teams — tools that remove friction from how work gets done.
 
-We started Publlsh Labs because most productivity tools create as much work as they remove. Our approach is different: every product we ship has a single job, does it invisibly well, and respects the intelligence of the person using it.
+We started Tinduck Labs because most productivity tools create as much work as they remove. Our approach is different: every product we ship has a single job, does it invisibly well, and respects the intelligence of the person using it.
 
 We're a small lab. We move deliberately, ship things that last, and only build what we'd use ourselves.
 
@@ -35,7 +38,10 @@ AI-powered social media management and scheduling. Draft, schedule, and analyse 
 🔗 [publlsh.app](https://publlsh.app/)
 
 ### 🔬 The Lab
-Our research arm explores where AI and human workflows genuinely intersect. New tools ship when they're ready — and not a moment sooner. Something new is currently taking shape.
+Our research arm explores where AI and human workflows genuinely intersect. New tools ship when they're ready — and not a moment sooner.
+
+### ⏳ Next product — *Coming soon*
+Something new is taking shape in the lab. Stay close.
 
 ---
 
@@ -58,14 +64,14 @@ In short: if it's productivity or operations software for a business — schools
 
 Interested in working with us, or curious about what we're building?
 
-- 🌐 Website: [publlsh.app](https://publlsh.app/)
-- ✉️ Email: [hello@publlsh.com](mailto:hello@publlsh.com)
-- 💼 [Work with us](http://localhost:3000/contact)
+- 🌐 Website: [tinducklabs.com](https://tinducklabs.com/)
+- ✉️ Email: [hello@tinducklabs.com](mailto:hello@tinducklabs.com)
+- 💼 [Work with us](https://tinducklabs.com/contact)
 
 ---
 
 <div align="center">
 
-© 2026 Publlsh Labs LLC
+© 2026 Tinduck Labs LLC
 
 </div>
