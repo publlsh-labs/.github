@@ -55,8 +55,24 @@ We build custom software across the full growth stack — and across a wide rang
 | **Marketing** | Campaign management, automation, and audience insights designed to turn attention into measurable results. |
 | **Business & operations** | Internal dashboards, ops platforms, and custom tools that keep teams aligned and moving fast — including school management systems, production/manufacturing systems, and other industry-specific software. |
 | **Forestry & carbon credits** | Platforms for companies in the carbon credits space — managing forests, tracking sequestration, and keeping projects audit-ready from planting to verification. |
+| **AI-powered applications** | Products with AI built in where it genuinely helps — content generation, summarisation, smart automation, and assistants that work inside your existing workflows. |
+| **MCP servers** | Model Context Protocol servers that connect AI assistants and agents to your data, tools, and internal systems — securely and in a standard way. |
 
-In short: if it's productivity or operations software for a business — schools, production, marketing, social, or general ops — it's likely something we build.
+In short: if it's productivity or operations software for a business — schools, production, marketing, social, general ops, or AI tooling — it's likely something we build.
+
+---
+
+## Technologies we use
+
+| Layer | Stack |
+|---|---|
+| **Backend** | PHP, Laravel, Laravel Horizon, Laravel Sanctum & Fortify |
+| **Frontend** | Vue 3, Inertia.js, Nuxt, TypeScript, Tailwind CSS, Vite |
+| **AI & agents** | Laravel AI SDK, Model Context Protocol (MCP) servers, LLM integrations |
+| **Data** | PostgreSQL, Redis |
+| **Payments** | Stripe (Laravel Cashier) |
+| **Infrastructure** | Docker, Nginx, Caddy |
+| **Quality** | Pest, ESLint, Prettier, Laravel Pint |
 
 ---
 
